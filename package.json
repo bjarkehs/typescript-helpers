@@ -1,0 +1,25 @@
+{
+  "name": "typescript-helpers",
+  "version": "1.0.0",
+  "description": "A collection of various helpers for Typescript. Mostly stuff I've ended up rewriting in many projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bjarkehs/typescript-helpers.git"
+  },
+  "keywords": [
+    "typescript"
+  ],
+  "author": "Bjarke Hesthaven Søndergaard",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bjarkehs/typescript-helpers/issues"
+  },
+  "homepage": "https://github.com/bjarkehs/typescript-helpers#readme",
+  "devDependencies": {
+    "typescript": "^4.4.4"
+  }
+}

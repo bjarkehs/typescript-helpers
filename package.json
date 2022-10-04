@@ -20,6 +20,6 @@
   },
   "homepage": "https://github.com/bjarkehs/typescript-helpers#readme",
   "devDependencies": {
-    "typescript": "^4.4.4"
+    "typescript": "^4.8.4"
   }
 }
